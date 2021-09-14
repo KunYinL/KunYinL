@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Kun Yin，a graduate student studying at CQU(Chongqing, China).
+- 👀 I’m interested in chaos engineering, AIOps(log analysis, fault location, etc.).
+- 🌱 I’m currently learning golang, container technology and monitoring(ELK, Prometheus, Grafana)
+- 📫 Email: kunyinzero@gmail.com. 
+- 😀 All my blogs and open-source projects are on OSChina.
